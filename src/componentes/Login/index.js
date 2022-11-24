@@ -14,7 +14,10 @@ function Login(){
                             <input type='text' name='nome' placeholder='Nome de usuario ou email' autoFocus></input>
                             <h2>Senha</h2>
                             <input type='password' name='senha' placeholder='Senha'></input><br></br>
-                            <p><a href='#'>Esqueceu sua Conta</a></p>
+                            <p align='right'><a href='#'>Esqueceu sua Conta</a></p>
+                            <div class="ou"></div>
+                            <p align='center'>OU</p>
+                            <div class="twoou"></div>
                             <input type='submit' value='Entrar'></input>
                             <input type='submit' value='Criar uma nova conta'></input>
                         </form>
